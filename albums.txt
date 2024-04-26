@@ -1,0 +1,135 @@
+9
+Tyler, the Creator
+Call Me If You Get Lost
+Rap
+img/callmeifyougetlost.jpg
+5
+LEMONHEAD
+sounds/LEMONHEAD.mp3
+WUSYANAME
+sounds/WUSYANAME.mp3
+JUGGERNAUT
+sounds/JUGGERNAUT.mp3
+RISE!
+sounds/RISE.mp3
+MANIFESTO
+sounds/MANIFESTO.mp3
+Childish Gambino
+Awaken, My Love
+Pop
+img/awakenmylove.jpg
+5
+Redbone
+sounds/redbone.mp3
+Zombies
+sounds/zombies.mp3
+California
+sounds/california.mp3
+Baby Boy
+sounds/babyboy.mp3
+Boogieman
+sounds/boogieman.mp3
+Kayne West
+The College Dropout
+Rap
+img/collegedropout.jpg
+4
+Slow Jamz
+sounds/slowjamz.mp3
+All Falls Down
+sounds/allfallsdown.mp3
+Graduation Day
+sounds/graduationday.mp3
+School Spirit
+sounds/schoolspirit.mp3
+Craig David
+Born to Do It
+Pop
+img/borntodoit.jpg
+3
+7 Days
+sounds/7days.mp3
+Walking Away
+sounds/walkingaway.mp3
+Last Night
+sounds/lastnight.mp3
+The Weeknd
+After Hours
+Pop
+img/afterhours.jpg
+6
+Blinding Lights
+sounds/blindinglights.mp3
+Snowchild
+sounds/snowchild.mp3
+Too Late
+sounds/toolate.mp3
+In Your Eyes
+sounds/inyoureyes.mp3
+Scared to Live
+sounds/scaredtolive.mp3
+Alone Again
+sounds/aloneagain.mp3
+Silk Sonic
+An Evening with Silk Sonic
+Pop
+img/silksonic.jpg
+5
+Skate
+sounds/skate.mp3
+Leave The Door Open
+sounds/leavethedooropen.mp3
+Love's Train
+sounds/lovestrain.mp3
+777
+sounds/777.mp3
+Fly As Me
+sounds/flyasme.mp3
+50 Cent
+Get Rich or Die Tryin'
+HipHop
+img/getrichordietryin.jpg
+5
+Blood Hound
+sounds/bloodhound.mp3
+P.I.M.P
+sounds/pimp.mp3
+Don't Push Me
+sounds/dontpushme.mp3
+Like My Style
+sounds/likemystyle.mp3
+In Da Club
+sounds/indaclub.mp3
+Bob Marley and the Wailers
+Legend
+Reggae
+img/legend.jpg
+3
+I Shot The Sheriff
+sounds/ishotthesheriff.mp3
+Jamming
+sounds/jamming.mp3
+Could You Be Loved
+sounds/couldyoubeloved.mp3
+Michael Jackson
+Thriller
+Pop
+img/thriller.jpg
+8
+The Girl Is Mine
+sounds/thegirlismine.mp3
+Baby Be Mine
+sounds/babybemine.mp3
+Human Nature
+sounds/humannature.mp3
+Thriller
+sounds/thriller.mp3
+Billie Jean
+sounds/billiejean.mp3
+The Lady in My Life
+sounds/theladyinmylife.mp3
+Wanna Be Startin' Somethin'
+sounds/wannabestartinsomethin.mp3
+P.Y.T (Pretty Young Thing)
+sounds/pyt.mp3
+
